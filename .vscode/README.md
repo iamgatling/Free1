@@ -1,15 +1,15 @@
 <div style="background: black;">
 <p align="center" style="margin: 0;">
-  <a href="https://dev.marblism.com" target="blank">
-    <img src="https://marblism-dashboard-api--production-public.s3.us-west-1.amazonaws.com/marblism-logo.png" height="150" alt="Marblism Logo" />
+  <a href="https://worldchat.example.com" target="blank">
+    <img src="https://worldchat.example.com/logo.png" height="150" alt="World Chat Logo" />
   </a>
 </p>
-<h1 align="center" style="margin: 0;">In Marble We Trust</h1>
+<h1 align="center" style="margin: 0;">World Chat</h1>
 
-<a  style="margin: 0;" target="_blank" href="https://marblism.com">
+<a  style="margin: 0;" target="_blank" href="https://worldchat.example.com">
 <p align="center" style="margin: 0; letter-spacing: 3px;
 text-decoration: none;">
-marblism
+worldchat
 </p>
 </a>
 </div>
@@ -17,7 +17,7 @@ marblism
 
 ## Documentation
 
-Learn more in the [official documentation](https://dev.marblism.com).
+Learn more in the [official documentation](https://worldchat.example.com/docs).
 
 ## Installation
 
@@ -38,27 +38,3 @@ Learn more in the [official documentation](https://dev.marblism.com).
 
 ```bash
 $ pnpm run init
-```
-
-## Development
-
-```bash
-$ pnpm run dev
-```
-
-[View your application in your browser](http://localhost:8099)
-
-## Production
-
-```bash
-$ pnpm run build
-$ pnpm run start
-```
-
-## Support
-
-We reply FAST on our <a target="_blank" href="https://discord.gg/GScNz7kAEu">Discord server</a>.
-
-## Stay in touch
-
-[@marblismAI](https://twitter.com/marblismAI)
